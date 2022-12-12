@@ -4,6 +4,8 @@
 
 body {
   color: var(--primary-color);
+  max-width: 60%;
+  margin: 0 auto;
 }
 
 header {
